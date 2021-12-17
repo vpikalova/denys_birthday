@@ -51,11 +51,11 @@ function my14() {
     alert("Желаю тебе щедрости судьбы и благосклонности удачи.  С Днём Рождения!")
 }
 function my15() {
-    alert("I wish you a long and amazing life. I wish you great health and excellent results in all your dealings. Most importantly, I wish you happiness without measure every minute in your life. Be loved, be happy, enjoy every day!")
-}
-function my16() {
     alert("May all your dreams come true! Happy Birthday to you!")
 }
-function my17() {
+function my16() {
     alert("Wishing you the Best Birthday Ever! Have fun! Cheers!")
+}
+function my17() {
+    alert("День рожденья – знак сеньору Ехать к морю, мчаться в горы… Наслаждаясь на просторе Изумительным обзором, Славно встретить эту дату В ласках солнца и пассата!")
 }
